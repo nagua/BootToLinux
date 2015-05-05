@@ -29,7 +29,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
-    <ClCompile Include="GetUEFIVar.cpp">
+    <ClCompile Include="BootToLinux.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
