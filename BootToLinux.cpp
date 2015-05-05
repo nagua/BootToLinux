@@ -1,4 +1,4 @@
-// GetUEFIVar.cpp : Definiert den Einstiegspunkt für die Konsolenanwendung.
+// BootToLinux.cpp : Definiert den Einstiegspunkt für die Konsolenanwendung.
 //
 
 #include "stdafx.h"

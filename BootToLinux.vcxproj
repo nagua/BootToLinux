@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{A286A2E1-DB49-4232-9816-D1F72442F502}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>GetUEFIVar</RootNamespace>
+    <RootNamespace>BootToLinux</RootNamespace>
     <ProjectName>BootToLinux</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
